@@ -1,3 +1,3 @@
-# Here you will find the code of cpp which i will do
+# Here you will find the CPP code to revise stuff.
+# Easy, Simplified CPP code will be provided Here.
 
-<p>this is on feature 1(LINUX)</p>
