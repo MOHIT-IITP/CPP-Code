@@ -16,8 +16,5 @@ git clone https://github.com/MOHIT-IITP/CPP-Code.git
 
 
 ## Usage
-
--To revise coding problems 
-
-
--To Get help when needed
+- To revise coding problems 
+- To Get help when needed
