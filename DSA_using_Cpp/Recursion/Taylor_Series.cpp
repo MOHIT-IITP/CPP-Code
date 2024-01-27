@@ -1,3 +1,7 @@
+//MOHIT-IITP
+
+//TAYLOR SERIES CODE
+
 #include<iostream>
 
 using namespace std;

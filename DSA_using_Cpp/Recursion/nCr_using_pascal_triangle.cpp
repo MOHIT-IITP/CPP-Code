@@ -1,6 +1,8 @@
 // using the pascal triangle to solve the nCr code
 // also used one of the properties of nCr
 
+//MOHIT-IITP
+
 #include<iostream>
 using namespace std;
 
