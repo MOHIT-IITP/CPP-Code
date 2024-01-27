@@ -1,4 +1,4 @@
-// using process called memoization
+// using process called memoization in the fibo , which uses less call in compare to normal call
 #include<iostream>
 
 using namespace std;
