@@ -7,7 +7,7 @@
 using namespace std;
 
 double taylor(int x,int n)
-
+{
 	static double p=1,f=1;
     double r;
 	
