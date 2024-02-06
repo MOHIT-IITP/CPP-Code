@@ -1,4 +1,28 @@
+/* The output will be something like this
+
+
+***********
+ *********
+  *******
+   *****
+    ***
+     *
+     *
+    ***
+   *****
+  *******
+ *********
+***********
+
+*/
+
+
+
+
+
 #include<iostream>
+
+
 using namespace std;
 
 void pattern(int n)
