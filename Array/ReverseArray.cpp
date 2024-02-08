@@ -1,6 +1,8 @@
 // Reverse the array
 
 #include<iostream>
+#include<stdio.h>
+
 using namespace std;
 
 void reverse_array(int a[],int size)
