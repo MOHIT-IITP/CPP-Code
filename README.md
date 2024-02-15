@@ -7,7 +7,7 @@
 - Windows, macOS, or Linux operating system
 
 
-## Installation 
+## Step for Installation
 
 git clone https://github.com/MOHIT-IITP/CPP-Code.git
 
