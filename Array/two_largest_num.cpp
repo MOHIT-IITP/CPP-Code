@@ -16,8 +16,8 @@ void two_largest(int a[])
 			second = a[i];
 		}
 	}
-	cout<<first<<endl;
-	cout<<second;
+	cout<<"first : "<<first<<endl;
+	cout<<"second : "<<second<<endl;
 }
 
 int main()
