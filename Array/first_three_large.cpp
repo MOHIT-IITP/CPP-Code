@@ -1,3 +1,8 @@
+#include<iostream>
+#include<stdio.h>
+using namespace std;
+
+
 void larg_three(int a[])
 {
 	int first,second,third;
