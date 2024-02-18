@@ -15,8 +15,6 @@ void pattern(int row)
 		}
 		cout<<endl;
 	}
-
-
 }
 
 int main()
